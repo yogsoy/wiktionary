@@ -1,0 +1,19 @@
+{
+  "name": "wiktionary",
+  "version": "1.0.0",
+  "description": "tests with the wiktionary api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index rainbow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogsoy/wiktionary.git"
+  },
+  "author": "yogsoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yogsoy/wiktionary/issues"
+  },
+  "homepage": "https://github.com/yogsoy/wiktionary#readme"
+}
