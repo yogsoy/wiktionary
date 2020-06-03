@@ -4,7 +4,8 @@
   "description": "tests with the wiktionary api",
   "main": "index.js",
   "scripts": {
-    "test": "node index rainbow"
+    "test": "node index rainbow",
+    "start": "node index"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/yogsoy/wiktionary/issues"
   },
-  "homepage": "https://github.com/yogsoy/wiktionary#readme"
+  "homepage": "https://github.com/yogsoy/wiktionary#readme",
+  "dependencies": {}
 }
